@@ -17,7 +17,7 @@ Para visualizar o portfólio localmente, siga as etapas abaixo:
 
 1. Clone o repositório para o seu computador:
    ```bash
-   git clone https://github.com/SusananRibeiro/clone-hbo-max-animacoes-html-css
+   git clone https://github.com/SusananRibeiro/clone-hbo-max-animacoes-html-css.git
 
 2. Navegue até o diretório do projeto:
     ```bash
